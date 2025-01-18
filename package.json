@@ -1,6 +1,6 @@
 {
   "name": "camargo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal npm card for Chris Camargo (@camargo)",
   "main": "dist/card.js",
   "unpkg": "index.html",
@@ -52,7 +52,7 @@
       "github": "camargo",
       "linkedin": "christophercamargo",
       "web": "https://www.christophercamargo.com",
-      "work": "Software Engineer @ JPL"
+      "work": "Software Engineer"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
